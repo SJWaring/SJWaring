@@ -16,3 +16,5 @@ I'm Stef, a technical writer from 🍁Canada.
     * Monday
     * GIMP
     * Google Docs
+ 
+My resume is [here](https://github.com/SJWaring/resume2026).
